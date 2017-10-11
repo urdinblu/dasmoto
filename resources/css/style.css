@@ -1,0 +1,35 @@
+h1{
+  color:khaki;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  font-weight: bold;
+  font-size: 100px;
+  text-align: center;
+
+}
+
+h1, h2, h3, p {
+  font-family: Helvetica;
+
+}
+
+.item h2{
+  color: white;
+  font-size: 32px;
+}
+/*See HTML for possible alternative means of styling using CSS within text*/
+/*.price{
+    color: blue;
+    font-weight: bold;
+}*/
+
+#brush {
+  background-color:mediumSpringGreen;
+}
+
+#frame {
+  background-color:lightCoral;
+}
+
+#paint {
+  background-color: skyBlue;
+}
